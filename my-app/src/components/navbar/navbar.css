@@ -1,0 +1,10 @@
+
+.score {
+    float: right;
+    padding-right: 50px;
+    padding-top: 20px;
+    color: rgb(172, 46, 172);
+    font-size: 2rem;
+    list-style-type: none;
+    font-family: 'Sedgwick Ave Display', cursive;
+}

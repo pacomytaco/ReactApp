@@ -1,14 +1,10 @@
   .header {
     width: 100%;
     font-size: 2rem;
-    color: #2A77AE;
+    color: rgb(114, 72, 211);
     margin-bottom: 10px;
+    padding-left: 25px;
+    font-family: 'Sedgwick Ave Display', cursive;
   }
   
-  .title {
-    float: left;
-  }
   
-  .scores {
-    float: right;
-  }

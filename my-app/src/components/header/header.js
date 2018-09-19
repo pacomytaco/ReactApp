@@ -7,7 +7,6 @@ class Header extends Component {
             <div className="header">
             <h1>Gorillaz Clicky Game</h1>
             <p>Click on all the images, without clicking the same one more than once, to win!</p>
-
         </div>
         )
     }
