@@ -1,0 +1,24 @@
+.card {
+    background: rgb(112, 218, 102);
+    border-radius: 3px;
+    height: 40%;
+    width: auto;
+    position: relative;
+    margin: 3px;
+}
+
+.card > .img-container{
+    background: rgb(172, 46, 172);
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+}
+
+.card > .img-container> img {
+    width: 250px;
+    height: 250px;
+    padding-top: 25px;
+    position: relative;
+    left: 25px;
+}
+
